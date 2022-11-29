@@ -21,13 +21,21 @@ body {
 .left-section {
     grid-column: span 2;
     height: 100%;
+<<<<<<< HEAD
     background-color: rebeccapurple;
+=======
+    background-color: #00204A;
+>>>>>>> 478d13ad14b8f534b6f2c315da92db3d5052047a
 }
 
 .right-section {
     grid-column: span 5;
     height: 100%;
+<<<<<<< HEAD
     background-color:rgb(124, 87, 161);
+=======
+    background-color: #4B6982;
+>>>>>>> 478d13ad14b8f534b6f2c315da92db3d5052047a
     border-radius: 0px 60px 0px 0px;
 }
 
